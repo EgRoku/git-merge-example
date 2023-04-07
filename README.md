@@ -1,3 +1,3 @@
 # git-merge-example
-
-## this is a subheading created locally
+## this is a subheading crated remotely
+## this is a subheading crated remotely
